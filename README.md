@@ -1,2 +1,2 @@
-# Ansible_Baics
+# Ansible_Basics
 Basics of Ansible 
